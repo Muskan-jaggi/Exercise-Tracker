@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercise-tracker-project.iml" filepath="$PROJECT_DIR$/.idea/exercise-tracker-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python small projects/turtle-crossing-start/.idea/turtle-crossing-start.iml" filepath="$PROJECT_DIR$/../../python small projects/turtle-crossing-start/.idea/turtle-crossing-start.iml" />
+    </modules>
+  </component>
+</project>
